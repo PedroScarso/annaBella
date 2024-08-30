@@ -17,6 +17,10 @@ body {
     padding: 20px;
 }
 
+.centralizar {
+    text-align: center;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
