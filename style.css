@@ -44,3 +44,7 @@ a {
 a:hover {
     color: white;
 }
+
+.imgCampanha {
+    border: 10px solid #c3c3ae;
+}
