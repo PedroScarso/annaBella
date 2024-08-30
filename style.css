@@ -17,8 +17,22 @@ body {
     padding: 20px;
 }
 
-.centralizar {
+#rodape {
     text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.8em;
+}
+
+h2 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+data {
+    font-size: 0.6em;
 }
 
 a {
