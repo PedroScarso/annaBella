@@ -3,13 +3,18 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
 }
 
-#postarConteudo {
+#containerPrincipal {
     width: 900px;
 }
 
 #menu {
     background: #c5c5b2;
     padding: 18px;
+}
+
+#postarConteudo {
+    background: #e8e8d9;
+    padding: 20px;
 }
 
 a {
